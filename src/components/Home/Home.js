@@ -5,6 +5,9 @@ import apple from '../../image/apple.jpg'
 import ReviewDetails from '../ReviewDetails/ReviewDetails';
 
 const Home = () => {
+
+    // use custom hook useReviews()
+
     const [reviews,setReviews] = useReviews()
     const newArrayReview = [...reviews]
     const review = newArrayReview.slice(0, 3)
@@ -28,7 +31,7 @@ const Home = () => {
                 </div>
             </div>
 
-
+{/* Reviews Section of Home Page */}
 
             <div className='mt-20'>
                 <h2 className='text-5xl p-4 text-black font-serif text-center'>Reviews ({reviews.length})</h2>

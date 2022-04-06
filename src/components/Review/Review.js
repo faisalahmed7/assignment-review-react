@@ -3,6 +3,7 @@ import useReviews from '../../customhook/useReviews';
 import ReviewDetails from '../ReviewDetails/ReviewDetails';
 
 const Review = () => {
+    // using custom hook useReviews()
     const [reviews]=useReviews()
     return (
         <div>
