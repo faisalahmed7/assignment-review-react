@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Jack",
+    "id": 9781484206485,
+    "img":"https://randomuser.me/api/portraits/men/46.jpg",
+    "description": "Apple is my first choice always. I feel very much comfortable to watch movie on this monitor",
+    "ratings":3.7
+  },
+  {
+    "name": "Mario",
+    "id": 9781484211830,
+    "img":"https://randomuser.me/api/portraits/men/72.jpg",
+    "description": "Apple's monitor RGB is very much attractive. i just love it ",
+    "ratings":5.0
+  },
+ 
+  {
+    "name": "Sana",
+    "id": 9781617291609,
+    "img":"https://randomuser.me/api/portraits/women/23.jpg",
+    "description": "Apple's monitor is my number 1 choice for all among all monitor. It gives a realistic feel of anything to view on it ",
+    "ratings":4.3
+  },
+  {
+    "name": "Zara",
+    "id": 9781782168355,
+    "img":"https://randomuser.me/api/portraits/women/68.jpg",
+    "description": "22 inches monitor is very much comfortable for all. So try to build this size much as more ",
+    "ratings":4.8
+  },
+  {
+    "name": "Lucy",
+    "id": 9781783553273,
+    "img":"https://randomuser.me/api/portraits/women/30.jpg",
+    "description": "I just loved it. Since 2011, I'm still using this brand",
+    "ratings":4.7
+  },
+  {
+    "name": "Clark",
+    "id": 9781484268780,
+    "img":"https://randomuser.me/api/portraits/men/91.jpg",
+    "description": "Metal body, Nice resolution of 4k. ",
+    "ratings":4.9
+  }
+]
